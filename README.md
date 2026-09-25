@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 11 problems · 0 labs · 0 math
+**12** solved · 12 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Batched Attention Score Computation for Multiple Heads](https://www.deep-ml.com/problems/966) | medium | 2026-09-25 | [solution](problems/0966-batched-attention-score-computation-for-multiple-heads) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-09-24 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-24 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-09-25 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-09-25 | [solution](problems/0053-implement-self-attention-mechanism) |
 
 ---
