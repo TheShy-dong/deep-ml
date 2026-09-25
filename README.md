@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 8 problems · 0 labs · 0 math
+**9** solved · 9 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement RMSNorm (Root Mean Square Layer Normalization)](https://www.deep-ml.com/problems/372) | easy | 2026-09-24 | [solution](problems/0372-implement-rmsnorm-root-mean-square-layer-normalization) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-25 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-09-25 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-25 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Batched Attention Score Computation for Multiple Heads](https://www.deep-ml.com/problems/966) | medium | 2026-09-25 | [solution](problems/0966-batched-attention-score-computation-for-multiple-heads) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-09-24 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-24 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
