@@ -63,8 +63,8 @@ def multi_head_attention(Q: torch.Tensor, K: torch.Tensor, V: torch.Tensor, n_he
     scores=Q@K.transpose(-1,-2)/math.sqrt(head_dim)
     scores=F.softmax(scores, dim=-1)@V#shape(n_heads,seq_len,head_dim)
     scores=scores.transpose(0,1)
-    scores=scores.contiguous().view(seq_len,n_heads,head_dim)
-    return scores.view(seq_len,n_heads*head_dim)
+    scores=scores.contiguous().view(seq_len,n_heads*head_dim)
+    return scores
 
 
     pass
