@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 14 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compare Naive vs Stable Softmax for Attention Scores](https://www.deep-ml.com/problems/962) | easy | 2026-09-25 | [solution](problems/0962-compare-naive-vs-stable-softmax-for-attention-scores) |
 | [Implement LayerNorm from Scratch](https://www.deep-ml.com/problems/908) | easy | 2026-09-24 | [solution](problems/0908-implement-layernorm-from-scratch) |
 | [Implement RMSNorm (Root Mean Square Layer Normalization)](https://www.deep-ml.com/problems/372) | easy | 2026-09-24 | [solution](problems/0372-implement-rmsnorm-root-mean-square-layer-normalization) |
+| [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-09-28 | [solution](problems/0156-implement-swiglu-activation-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-25 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-09-25 | [solution](problems/0003-reshape-matrix) |
 | [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-09-25 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
