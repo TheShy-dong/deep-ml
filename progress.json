@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T08:01:20.831Z",
+  "generated_at": "2026-10-08T08:46:28.656Z",
   "items": {
     "problem:372": {
       "kind": "problem",
@@ -205,9 +205,9 @@
       "url": "https://www.deep-ml.com/problems/229",
       "path": "problems/0229-sparse-moe-top-k-routing",
       "first_solved_at": "2026-10-08T08:01:19.111Z",
-      "last_pushed_at": "2026-10-08T08:01:19.111Z",
+      "last_pushed_at": "2026-10-08T08:46:26.880Z",
       "language": "python",
-      "lines": 21
+      "lines": 43
     }
   }
 }
