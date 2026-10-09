@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T12:23:40.106Z",
+  "generated_at": "2026-10-09T13:18:36.292Z",
   "items": {
     "problem:372": {
       "kind": "problem",
@@ -221,6 +221,19 @@
       "last_pushed_at": "2026-10-08T12:23:37.757Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:378": {
+      "kind": "problem",
+      "id": "378",
+      "title": "Temperature Sampling",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/378",
+      "path": "problems/0378-temperature-sampling",
+      "first_solved_at": "2026-10-09T13:18:34.341Z",
+      "last_pushed_at": "2026-10-09T13:18:34.341Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
